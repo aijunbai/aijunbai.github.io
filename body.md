@@ -121,8 +121,14 @@ Technical Reports
 =================
 
 -   **Multi-Object Tracking and Identification over Sets**, *Aijun Bai*,\
-    *Computing Research Repository (CoRR), 2016*
+    *Computing Research Repository (CoRR), 2016.*
     \[[pdf](publications/CoRR16-Bai.pdf)\]
+-   **Semi-Markov Process based User Cheating Behaviour Recognition** (in Chinese), *Aijun Bai*,\
+    *Alibaba eTao, Mar 2015.*
+    \[[pdf](publications/Alibaba15-Bai2.pdf)\]
+-   **EM based Sale Abnormality Recognition** (in Chinese), *Aijun Bai*,\
+    *Alibaba eTao, Mar 2015.*
+    \[[pdf](publications/Alibaba15-Bai.pdf)\]
 -   **Markov Theory based Planning and Sensing under Uncertainty** (in Chinese),
     *Aijun Bai*,\
     *Ph.D. Thesis of USTC, Sep 2014.*
